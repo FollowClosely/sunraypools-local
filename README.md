@@ -3,7 +3,7 @@
 ###### instructions for OSX
 
 | open terminal and run these commands                               |
-| -----------------------------------------------------------------  |
+| :----------------------------------------------------------------  |
 | `mkdir ~/Desktop/srp-localhost && cd ~/Desktop/srp-localhost`      |
 | `git clone https://github.com/FollowClosely/sunraypools-local.git` |
 | `npm install -g http-server`                                       |
