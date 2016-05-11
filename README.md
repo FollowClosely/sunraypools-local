@@ -11,6 +11,7 @@
 
 ###### then open any browser (besides IE) and visit:
 
-[localhost:8080]
+(< http://localhost:8080/>)
 
-> note: if you get any errors, especially running the `npm install` command, just call me
+
+note: if you get any errors, especially running the `npm install` command, just call me
