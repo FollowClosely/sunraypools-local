@@ -9,9 +9,9 @@
 | `npm install -g http-server`                                       |
 | `http-server`                                                      |
 
-###### then open any browser (besides IE) and visit:
+then, open any browser (besides IE) and visit:
 
-(< http://localhost:8080/>)
+http://localhost:8080/
 
 
-note: if you get any errors, especially running the `npm install` command, just call me
+###### note: if "npm install" doesn't work, call me yo
