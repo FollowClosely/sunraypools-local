@@ -1,16 +1,19 @@
 # sun ray pools localhost
 
-### instructions for OSX
+###### instructions for OSX
 
-1. open terminal and copy/paste the following commands:
+### open terminal and copy/paste the following commands:
 
-- `mkdir ~/Desktop/srp-localhost && cd ~/Desktop/srp-localhost`
-- `git clone https://github.com/FollowClosely/sunraypools-local.git`
-- `npm install -g http-server`
-- `http-server`
+```mkdir ~/Desktop/srp-localhost && cd ~/Desktop/srp-localhost```
 
-2. open any browser besides IE and visit:
+```git clone https://github.com/FollowClosely/sunraypools-local.git```
 
-(127.0.0.1:8080)[127.0.0.1:8080]
+```npm install -g http-server```
 
-###### note: if you get any errors, especially running the `npm install` command, just call me
+```http-server```
+
+### open any browser (besides IE)  and visit:
+
+[127.0.0.1:8080](127.0.0.1:8080)
+
+> note: if you get any errors, especially running the `npm install` command, just call me
