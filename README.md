@@ -2,17 +2,14 @@
 
 ###### instructions for OSX
 
-### open terminal and copy/paste the following commands:
+| open terminal and run these commands                               |
+| -----------------------------------------------------------------  |
+| `mkdir ~/Desktop/srp-localhost && cd ~/Desktop/srp-localhost`      |
+| `git clone https://github.com/FollowClosely/sunraypools-local.git` |
+| `npm install -g http-server`                                       |
+| `http-server`                                                      |
 
-```mkdir ~/Desktop/srp-localhost && cd ~/Desktop/srp-localhost```
-
-```git clone https://github.com/FollowClosely/sunraypools-local.git```
-
-```npm install -g http-server```
-
-```http-server```
-
-### open any browser (besides IE)  and visit:
+### open any browser (besides IE) and visit:
 
 [127.0.0.1:8080](127.0.0.1:8080)
 
