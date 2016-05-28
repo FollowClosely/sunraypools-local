@@ -1,0 +1,3 @@
+this["MyApp"]["templates"]["Banner"] = Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<div class=\"banner\" id=\"banner\">\n  <div class=\"banner-wrapper\">\n    <a href=\"#open-modal\"><img src=\"assets/images/icon02.png\"></a>\n    <p class=\"flex-1\">\n      <span id=\"banner-a\" class=\"bold hidden-on-mobile\">\n        Download the Checklist &nbsp;&rarr;\n      </span>\n      <span id=\"banner-b\" class=\"bold\">\n        10 Tips for a Perfect Pool\n      </span>\n    </p>\n    <a href=\"#open-modal\" style=\"color:white\"><button class=\"btn btn-main\"> Download</button></a>\n  </div>\n</div>";
+},"useData":true});

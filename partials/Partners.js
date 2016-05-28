@@ -1,0 +1,3 @@
+this["MyApp"]["templates"]["Partners"] = Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<div class=\"partners\">\n  <ul>\n    <li class=\"partner partner01\"><img src=\"assets/images/partner01.jpg\"></li>\n    <li class=\"partner partner02\"><img src=\"assets/images/partner02.jpg\"></li>\n    <li class=\"partner partner03\"><img src=\"assets/images/partner03.jpg\"></li>\n    <li class=\"partner partner04\"><img src=\"assets/images/partner04.jpg\"></li>\n  </ul>\n</div>";
+},"useData":true});

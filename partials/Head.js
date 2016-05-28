@@ -1,0 +1,7 @@
+this["MyApp"]["templates"]["Head"] = Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    var helper;
+
+  return "<meta charset=\"utf-8\">\n<base href=\"/\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<link rel=\"stylesheet\" href=\"assets/lib/bootstrap/css/bootstrap.css\">\n<link rel=\"stylesheet\" href=\"assets/lib/font-awesome/font-awesome.min.css\">\n<link rel=\"stylesheet\" href=\"assets/lib/fancybox/jquery.fancybox.css?v=2.1.5\">\n<link rel=\"stylesheet\" href=\"assets/css/main.css\">\n<script src=\"assets/lib/handlebars/handlebars.runtime.min.js\"></script>\n<script src=\"partials/App.js\"></script>\n<script src=\"assets/lib/jquery/jquery-1.12.3.js\"></script>\n<script src=\"assets/lib/bootstrap/js/bootstrap.js\"></script>\n<script src=\"assets/lib/fancybox/jquery.fancybox.pack.js?v=2.1.5\"></script>\n<script src=\"assets/lib/skycons/skycons.js\"></script>\n<script src=\"assets/js/scripts.js\"></script>\n<title>Sun Ray Pools → "
+    + container.escapeExpression(((helper = (helper = helpers.title || (depth0 != null ? depth0.title : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(depth0 != null ? depth0 : {},{"name":"title","hash":{},"data":data}) : helper)))
+    + "</title>";
+},"useData":true});
